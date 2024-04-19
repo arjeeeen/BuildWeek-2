@@ -4,6 +4,7 @@ Gruppo: Byterebels
 
 # Pre-Requisiti per leggere il mio documento
 Avere tanta voglia
+
 Scaricare il file ed allargarlo FULL size
 
 # Altro..
